@@ -82,7 +82,6 @@ To get Ulanom up and running on your local machine, follow these steps:
 ## 👤 Developer
 
 Emre Bilgin  
-📧 emre.bilgin64@gmail.com  
 🌐 [GitHub](https://github.com/Uzaysalyakamoz)
 
 This software is developed as an open-source contribution to the astronomy community.
