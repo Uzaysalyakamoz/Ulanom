@@ -2,7 +2,7 @@
 
 **Göksel Veriyi Bilgiye Dönüştüren Çok Yönlü FITS Görüntüleyici ve Spektrum Analiz Aracı**
 
-![Ulanom Logo Placeholder](https://github.com/Uzaysalyakamoz/Ulanom/blob/main/Ulanom.png)
+![Ulanom Logo Tutucu](https://github.com/Uzaysalyakamoz/Ulanom/blob/main/Ulanom.png)
 
 
 ## Hakkında
