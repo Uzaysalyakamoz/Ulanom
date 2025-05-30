@@ -79,14 +79,6 @@ To get Ulanom up and running on your local machine, follow these steps:
 
     *Note: The `scipy` library is required for the Spline option in continuum fitting and for Gaussian line fitting. If you encounter an error during installation or do not need these specific features, you can remove the `scipy` line from `requirements.txt`. However, installation is recommended for full functionality.*
 
-## Usage
-
-With your virtual environment activated, you can run the application from the root directory:
-
-```bash
-python ulanom.py
-
-
 ## 👤 Developer
 
 Emre Bilgin  
@@ -94,3 +86,11 @@ Emre Bilgin
 🌐 [GitHub](https://github.com/Uzaysalyakamoz)
 
 This software is developed as an open-source contribution to the astronomy community.
+
+## Usage
+
+With your virtual environment activated, you can run the application from the root directory:
+
+```bash
+python ulanom.py
+
