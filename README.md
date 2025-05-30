@@ -83,7 +83,6 @@ Ulanom'u yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin
 ## 👤 Geliştirici
 
 Emre Bilgin  
-📧 emre.bilgin64@gmail.com  
 🌐 [GitHub](https://github.com/Uzaysalyakamoz)
 
 Bu yazılım, astronomi topluluğuna katkı sağlamak amacıyla açık kaynak olarak geliştirilmiştir.
