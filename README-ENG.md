@@ -85,3 +85,12 @@ With your virtual environment activated, you can run the application from the ro
 
 ```bash
 python ulanom.py
+
+
+## 👤 Developer
+
+Emre Bilgin  
+📧 emre.bilgin64@gmail.com  
+🌐 [GitHub](https://github.com/Uzaysalyakamoz)
+
+This software is developed as an open-source contribution to the astronomy community.
