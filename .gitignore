@@ -1,0 +1,21 @@
+# Sanal ortam dosyaları
+venv/
+.venv/
+
+# Python derleme çıktıları
+__pycache__/
+*.pyc
+
+# İşletim sistemiye özel dosyalar
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
+
+# Geliştirme ortamı dosyaları (opsiyonel)
+.vscode/
+.idea/
+
+# Kullanıcıya özel yapılandırmalar (eğer varsa)
+config.ini
