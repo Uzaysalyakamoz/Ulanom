@@ -79,6 +79,14 @@ Ulanom'u yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin
 
     *Not: `scipy` kütüphanesi, süreklilik fitinde Spline seçeneği ve Gaussian çizgi fiti için gereklidir. Kurulum sırasında bir hata alırsanız veya bu özelliklere ihtiyacınız yoksa, `requirements.txt` dosyasından `scipy` satırını silebilirsiniz. Ancak tam işlevsellik için yüklenmesi tavsiye edilir.*
 
+
+## 👤 Geliştirici
+
+Emre Bilgin  
+📧 emre.bilgin64@gmail.com  
+🌐 [GitHub](https://github.com/Uzaysalyakamoz)
+
+Bu yazılım, astronomi topluluğuna katkı sağlamak amacıyla açık kaynak olarak geliştirilmiştir.
 ## Kullanım
 
 Sanal ortamınız aktifken, uygulamayı ana dizinden çalıştırabilirsiniz:
